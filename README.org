@@ -1,0 +1,9 @@
+* binary-io
+
+Binary data library based on code from chapter 24 of Practical Common Lisp
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/mgi/binary-io.git |
+| commit  | 08caced                                  |
+| systems | binary-io                                |
+|---------+------------------------------------------|
